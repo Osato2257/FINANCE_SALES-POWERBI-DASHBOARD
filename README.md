@@ -87,5 +87,5 @@ I welcome feedback and suggestions that can help me grow as a data professional.
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** *(Add your LinkedIn profile link here)*
-- **GitHub:** *(Add your GitHub profile link here)*
+- **LinkedIn:** **https://www.linkedin.com/in/promise-osato-9644272b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+  
